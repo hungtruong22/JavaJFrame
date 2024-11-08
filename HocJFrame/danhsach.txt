@@ -1,0 +1,5 @@
+sv1; Le Thanh Nam; 22/11/1990;Nam;4.5;6.5
+sv2; Nguyen Thanh Nam; 02/11/1990;Nam;4.5;8.5
+sv3; Le Thi Nam; 02/01/1990;Nu;5.5;7.5
+sv4; Le Thi Hang;02/01/1990;Nu;1.5;1.5
+sv5; Le Thi Nam; 02/01/1990;Nu;2.5;2.5
